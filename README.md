@@ -2,6 +2,8 @@
 
 Simple Node JS server to serve Batman TV series characters  REST API
 
+A live server is running at: https://batapi-177503.appspot.com/
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development
