@@ -1,0 +1,51 @@
+[
+  {
+      "id": 1,
+      "name": "Batman",
+      "role": "hero",
+      "avatar": "images/batman_md.png"
+  },
+  {
+      "id": 2,
+      "name": "Robin",
+      "role": "hero",
+      "avatar": "images/robin_md.png"
+      
+  },
+  {
+      "id": 3,
+      "name": "Joker",
+      "role": "villain",
+      "avatar": "images/joker_md.png"      
+  },
+  {
+      "id": 4,
+      "name": "Alfred",
+      "role": "citizen",
+      "avatar": "images/alfred_md.png"      
+  },
+  {
+      "id": 5,
+      "name": "Gordon",
+      "role": "citizen",
+      "avatar": "images/gordon_md.png"      
+  },
+  {
+      "id": 6,
+      "name": "Penguin",
+      "role": "villain",
+      "avatar": "images/penguin_md.png"      
+  },
+  {
+      "id": 7,
+      "name": "Batgirl",
+      "role": "hero",
+      "avatar": "images/batgil_md.png"      
+  },
+  {
+      "id": 8,
+      "name": "Riddler",
+      "role": "villain",
+      "avatar": "images/riddler_md.png"      
+  }
+]
