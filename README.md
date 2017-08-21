@@ -74,7 +74,7 @@ These are the endpoints provided by this server
 
 ## Authors
 
-* **Mateus Carniatto** - *Creator* - [@4rniatto](https://twitter.com/c4rniatto) 
+* **Mateus Carniatto** - *Creator* - [@c4rniatto](https://twitter.com/c4rniatto) 
 
 ## License
 
