@@ -66,11 +66,11 @@ These are the endpoints provided by this server
     "quote": "We Anglo-finks have a long memory."
 }]
 ```
-- [/images/\<characterName\>_sm.png](https://batapi-177503.appspot.com/batman_sm.png) - small image of a character
+- [/images/\<characterName\>_sm.png](https://batapi-177503.appspot.com/images/batman_sm.png) - small image of a character
 
 ![small character image](https://github.com/Carniatto/batapi/blob/master/images/batman_sm.png)
 
-- [/images/\<characterName\>_md.png](https://batapi-177503.appspot.com/joker_md.png) - medium image of a character
+- [/images/\<characterName\>_md.png](https://batapi-177503.appspot.com/images/joker_md.png) - medium image of a character
 
 ![small character image](https://github.com/Carniatto/batapi/blob/master/images/joker_md.png)
 
