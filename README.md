@@ -16,7 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 These are the endpoints provided by this server
 
-- [/characters](http://localhost:3000/characters) - list of all characters name
+- [/characters](https://batapi-177503.appspot.com/characters) - list of all characters name
 ```json
 //Example Response
 [{
@@ -32,7 +32,7 @@ These are the endpoints provided by this server
     "name": "Joker"
 }]
 ```
-- [/characters/:id](http://localhost:3000/characters/1) - details for an specific character
+- [/characters/:id](https://batapi-177503.appspot.com/characters/1) - details for an specific character
 ```json
 //Example Response
 {
@@ -42,7 +42,7 @@ These are the endpoints provided by this server
   "avatar": "images/batman_md.png"
 }
 ```
-- [/quotes](http://localhost:3000/quotes) - list some quotes from each character
+- [/quotes](https://batapi-177503.appspot.com/quotes) - list some quotes from each character
 ```json
 //Example Response
 [{
@@ -66,11 +66,11 @@ These are the endpoints provided by this server
     "quote": "We Anglo-finks have a long memory."
 }]
 ```
-- [/images/\<characterName\>_sm.png](http://localhost:3000/batman_sm.png) - small image of a character
+- [/images/\<characterName\>_sm.png](https://batapi-177503.appspot.com/batman_sm.png) - small image of a character
 
 ![small character image](https://github.com/Carniatto/batapi/blob/master/images/batman_sm.png)
 
-- [/images/\<characterName\>_md.png](http://localhost:3000/joker_md.png) - medium image of a character
+- [/images/\<characterName\>_md.png](https://batapi-177503.appspot.com/joker_md.png) - medium image of a character
 
 ![small character image](https://github.com/Carniatto/batapi/blob/master/images/joker_md.png)
 
